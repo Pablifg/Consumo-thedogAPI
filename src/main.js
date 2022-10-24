@@ -1,6 +1,6 @@
 //const URL = 'https://api.thedogapi.com/v1/images/search';
 //Ading query parameter
-const URL = 'https://api.thedogapi.com/v1/images/search?limit=3';
+const URL = 'https://api.thedogapi.com/v1/images/search?limit=3&api_key=live_gyh9rjGWMEWR0gcjTZLgCGwc6jMMoDKAGgzk8p9AoWDwBtfnUxZWKamHrygcu6gp';
 
 const img1 = document.querySelector('#img1');
 const img2 = document.querySelector('#img2');
